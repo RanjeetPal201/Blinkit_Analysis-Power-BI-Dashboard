@@ -39,18 +39,6 @@ It is designed to help businesses make data-driven decisions by visualizing key 
 - Excel / CSV Dataset  
 - Power Query (Data Cleaning & Transformation)  
 
----
-
-## 📂 Project Files  
-- blinkit-dashboard.pbix → Main dashboard file  
-- dashboard-screenshot.png → Dashboard preview  
-
----
-
-## 🖼️ Dashboard Preview  
-![Dashboard Preview](dashboard-screenshot.png)
-
----
 
 ## 🚀 How to Use  
 1. Download the .pbix file  
